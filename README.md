@@ -69,7 +69,7 @@ AWS CLI & Azure CLI – Authentication and resource management
 
 🛠️ Project Workflow
 
-1️⃣ Prerequisites
+1️. Prerequisites
 
 - Install Terraform
 
@@ -81,7 +81,7 @@ AWS CLI & Azure CLI – Authentication and resource management
 
 - Domain registered via Namecheap
 
-2️⃣ AWS Infrastructure (Terraform)
+2️. AWS Infrastructure (Terraform)
 
 - S3 bucket for static website hosting
 
@@ -89,7 +89,7 @@ AWS CLI & Azure CLI – Authentication and resource management
 
 - Route 53 hosted zone and health checks
 
-3️⃣ Azure Infrastructure (Terraform)
+3️. Azure Infrastructure (Terraform)
 
 - Resource group
 
@@ -97,7 +97,7 @@ AWS CLI & Azure CLI – Authentication and resource management
 
 - Blob container with static website enabled
 
-4️⃣ Disaster Recovery Setup
+4️. Disaster Recovery Setup
 
 - Route 53 DNS failover routing policy
 
